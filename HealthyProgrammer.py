@@ -1,3 +1,4 @@
+#make sure to make health  file and insert Kalimba.ogg music to same folder as ur program is saved 
 from pygame import mixer
 from datetime import datetime
 import time
